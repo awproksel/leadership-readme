@@ -51,7 +51,7 @@ Everyday I work to guide, advise and facilitate the growth of our team and our i
 
 #### I trust my team
 
-I trust each and every member of our team.  Trust isn't earned, its lost.
+I trust each and every member of our team.  Trust isn't earned, it's lost.
 
 
 
@@ -63,7 +63,7 @@ I would like to think I know everything but that just isn't the case.  I hire sm
 
 #### I embrace a work/life balance
 
-I typically work between 8am and 6pm, and unless there's an emergency, I don't expect to communicate with you (about work) outside of these hours.  As such, I **never** expect you to respond to me outside these hours either unless its an emergency.  
+I typically work between 8am and 6pm, and unless there's an emergency, I don't expect to communicate with you (about work) outside of these hours.  As such, I **never** expect you to respond to me outside these hours either unless it is an emergency.  
 
 I have a wife and daughter and we like to spend Fridays together so I typically work from home every Friday; I rarely schedule meetings on Friday and I appreciate it if you do the same.
 
@@ -71,13 +71,13 @@ I have a wife and daughter and we like to spend Fridays together so I typically 
 
 #### I want you to be and feel productive 
 
-Regardless of where you work, our success relies on your independence and autonomy.  My role is to provide a framework and support so you can be production and *feel* productive.  If our processes or procedures don't enable you to be productive or feel productive make sure to tell me.  
+Regardless of where you work, our success relies on your independence and autonomy.  My role is to provide a framework and support so you can be productive and *feel* productive.  If our processes or procedures don't enable you to be productive or feel productive make sure to tell me.  
 
 
 
 #### I want our team to add value
 
-I love talking technology and can do so for hours on end; but technology is rarely the only component an engineering team produces or supports.  I expect the team to focus on adding business value and making decisions that ensure we can and do deliver on our commitments to business and our customers
+I love talking technology and can do so for hours on end; but technology is rarely the only component an engineering team produces or supports.  I expect the team to focus on adding business value and making decisions that ensure we can and do deliver on our commitments to the business and our customers.
 
 
 
