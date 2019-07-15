@@ -8,7 +8,7 @@ This is my version of the so-called "manager readme" or a "how I lead" reference
 
 ### About Me
 
-I've been in technology for more than a decade and I am still tying to figuring it all out.  I climbed the ladder of engineering through the lens of a [site reliability](https://en.wikipedia.org/wiki/Site_Reliability_Engineering) and devops engineer.  As such, I'm used to looking at a complete system and figuring out why the cogs are misaligned and providing a simple but effective solution.  
+I've been in technology for more than a decade and I am still tying to figuring it all out.  I climbed the ladder of engineering through the lens of a [site reliability](https://en.wikipedia.org/wiki/Site_Reliability_Engineering) and "devops engineer" (not a real job title, ask me more!).  As such, I'm used to looking at a complete system and figuring out why the cogs are misaligned and providing a simple but effective solution.  
 
 Also, I'm a huge fan of Star Wars, Lego & reality tv cooking shows.  
 
