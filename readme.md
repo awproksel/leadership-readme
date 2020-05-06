@@ -2,7 +2,7 @@
 
 
 
-This is my version of the so-called "manager readme" or a "how I lead" reference for anyone that works directly with me.  
+This is my version of the so-called "leadership readme" or a "how I lead" reference for anyone that works directly with me.  
 
 
 
@@ -42,7 +42,7 @@ Our initial conversation *will* be a bit different.  Here are a few of the quest
 - How can I help you when you're grumpy? 
 
 - How do you prefer feedback? (in scheduled 1o1, as-it-happens, via text, phone, smoke signal?)
-- How do you prefer to recieve recognition (publicly or privately)
+- How do you prefer to receive recognition (publicly or privately)
 
 - How do we make 1o1s value to you?
 
@@ -59,7 +59,7 @@ Everyday I work to guide, advise and facilitate the growth of our team and our i
 
 
 
-### How I Manage
+### How I Lead
 
 
 
