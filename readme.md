@@ -2,7 +2,7 @@
 
 
 
-This is my version of the so-called "manager readme" or a "how I lead" reference for anyone that works directly for me.  
+This is my version of the so-called "manager readme" or a "how I lead" reference for anyone that works directly with me.  
 
 
 
