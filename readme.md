@@ -106,4 +106,4 @@ I expect the team to have a passion for learning and growing and I will do my be
 
 #### ISMs! 
 
-Quicken Loans has a fantastic culture and codified some of that culture in the [ISMs](https://dev-qlpr.pantheonsite.io/fast-facts/#isms).  These ideals get to the guts of what it means to be a team member.  Read them, use them, live them.  
+Quicken Loans has a fantastic culture and codified some of that culture in the [ISMs](https://www.myrocketcareer.com/About-Us/Our-Philosophies).  These ideals get to the guts of what it means to be a team member.  Read them, use them, live them.  
