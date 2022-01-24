@@ -8,7 +8,7 @@ This is my version of the so-called "leadership readme" or a "how I lead" refere
 
 ### About Me
 
-I've been in technology for more than a decade and I am still tying to figuring it all out.  I climbed the ladder of engineering through the lens of a [site reliability](https://en.wikipedia.org/wiki/Site_Reliability_Engineering) and "devops engineer" (not a real job title, ask me more!).  As such, I'm used to looking at a complete system and figuring out why the cogs are misaligned and providing a simple but effective solution.  
+I've been in technology for more than a decade and I am still tying to figuring it all out.  I climbed the ladder of engineering through the lens of a [site reliability](https://en.wikipedia.org/wiki/Site_Reliability_Engineering) and "devops engineer" (not a real job title, ask me more!).  As such, I'm used to looking at complex systems and figuring out why the cogs are misaligned and providing a simple but effective solution.  
 
 Also, I'm a huge fan of Star Wars, Lego & reality tv cooking shows.  
 
@@ -106,4 +106,4 @@ I expect the team to have a passion for learning and growing and I will do my be
 
 #### ISMs! 
 
-Quicken Loans has a fantastic culture and codified some of that culture in the [ISMs](https://www.myrocketcareer.com/About-Us/Our-Philosophies).  These ideals get to the guts of what it means to be a team member.  Read them, use them, live them.  
+Rocket Mortgage (previous Quicken Loans) has a fantastic culture and codified some of that culture in the [ISMs](https://www.myrocketcareer.com/About-Us/Our-Philosophies).  These ideals get to the guts of what it means to be a team member.  Read them, use them, live them.  
