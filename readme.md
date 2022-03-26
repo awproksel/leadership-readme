@@ -1,10 +1,5 @@
-## Working With Me
-
-
 
 This is my version of the so-called "leadership readme" or a "how I lead" reference for anyone that works directly with me.  
-
-
 
 ### About Me
 
@@ -12,7 +7,49 @@ I've been in technology for more than a decade and I am still tying to figuring 
 
 Also, I'm a huge fan of Star Wars, Lego & reality tv cooking shows.  
 
+### My Role
 
+My role is to be accountable for the decisions, progress and general success.  I am **not** here to make all the decisions nor should I or should you let me.
+
+Everyday I work to guide, advise and facilitate the growth of our team and our impact on the products we build and support.  
+
+### How I Lead
+
+#### My style
+
+I lead projects and endeavors using 3 sequential modes: visioning, demonstrating, stewarding and 5 sequential questions: what, why, how, who & when
+
+#### I trust my team
+
+I trust each and every member of our team.  Trust isn't earned, it's lost.
+
+#### I like to be challenged 
+
+I would like to think I know everything but that just isn't the case.  I hire smart people because I like to surround myself with opinionated, passionate, hard-working people.  Please challenge my ideas, thoughts and feedback.  If you're not comfortable doing it in a group setting please make sure to voice your thoughts in our 1o1.  
+
+#### I embrace a work/life balance
+
+I typically work between 8am and 6pm, and unless there's an emergency, I don't expect to communicate with you (about work) outside of these hours.  As such, I **never** expect you to respond to me outside these hours either unless it is an emergency.  
+
+#### I want you to be and feel productive 
+
+Regardless of where you work, our success relies on your independence and autonomy.  My role is to provide a framework and support so you can be productive and *feel* productive.  If our processes or procedures don't enable you to be productive or feel productive make sure to tell me.  
+
+#### I want our team to add value
+
+I love talking technology and can do so for hours on end; but technology is rarely the only component an engineering team produces or supports.  I expect the team to focus on adding business value and making decisions that ensure we can and do deliver on our commitments to the business and our customers.
+
+#### I want you to grow
+
+I expect the team to have a passion for learning and growing and I will do my best to challenge and entice you to learn new and exciting things. 
+
+#### I want your feedback
+
+"Feedback is a gift"  
+
+#### ISMs! 
+
+Rocket Mortgage (previous Quicken Loans) has a well codified culture in the [ISMs](https://www.myrocketcareer.com/About-Us/Our-Philosophies).  These ideals get to the guts of what it means to be a team member.  Read them, use them, live them.  
 
 ### Your Role
 
@@ -21,7 +58,6 @@ A team's success is not defined by any one person's achievements or failures.
 > Each and every member of our team needs to help positively influence, guide, change, and improve our product, technology & processes.   
 
 That is your role and the role of everyone on the team.  At times you will need to be able to change the mindsets and beliefs of your team; this give and take, these professional debates, are not optional.  They **will** make you a better engineer and leader, but they can be trying and often difficult.  I'm here to provide guidance and course correct the conversation if need be, but I cannot and will not speak for you.  
-
 
 
 #### 1 on 1 Meetings
@@ -51,59 +87,4 @@ Our initial conversation *will* be a bit different.  Here are a few of the quest
 - What's your favorite way to treat yourself? 
 
 
-### My Role
 
-My role is to be accountable for the decisions, progress and general success.  I am **not** here to make all the decisions nor should I or should you let me.
-
-Everyday I work to guide, advise and facilitate the growth of our team and our impact on the products we build and support.  
-
-
-
-### How I Lead
-
-
-
-#### I trust my team
-
-I trust each and every member of our team.  Trust isn't earned, it's lost.
-
-
-
-#### I like to be challenged 
-
-I would like to think I know everything but that just isn't the case.  I hire smart people because I like to surround myself with opinionated, passionate, hard-working people.  Please challenge my ideas, thoughts and feedback.  If you're not comfortable doing it in a group setting please make sure to voice your thoughts in our 1o1.  
-
-
-
-#### I embrace a work/life balance
-
-I typically work between 8am and 6pm, and unless there's an emergency, I don't expect to communicate with you (about work) outside of these hours.  As such, I **never** expect you to respond to me outside these hours either unless it is an emergency.  
-
-
-
-
-#### I want you to be and feel productive 
-
-Regardless of where you work, our success relies on your independence and autonomy.  My role is to provide a framework and support so you can be productive and *feel* productive.  If our processes or procedures don't enable you to be productive or feel productive make sure to tell me.  
-
-
-
-#### I want our team to add value
-
-I love talking technology and can do so for hours on end; but technology is rarely the only component an engineering team produces or supports.  I expect the team to focus on adding business value and making decisions that ensure we can and do deliver on our commitments to the business and our customers.
-
-
-
-#### I want you to grow
-
-I expect the team to have a passion for learning and growing and I will do my best to challenge and entice you to learn new and exciting things. 
-
-
-#### I want your feedback
-
-"Feedback is a gift"  
-
-
-#### ISMs! 
-
-Rocket Mortgage (previous Quicken Loans) has a fantastic culture and codified some of that culture in the [ISMs](https://www.myrocketcareer.com/About-Us/Our-Philosophies).  These ideals get to the guts of what it means to be a team member.  Read them, use them, live them.  
