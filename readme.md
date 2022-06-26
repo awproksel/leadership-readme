@@ -47,9 +47,13 @@ I expect the team to have a passion for learning and growing and I will do my be
 
 "Feedback is a gift"  
 
-#### ISMs! 
+#### Culture
 
-Rocket Mortgage (previous Quicken Loans) has a well codified culture in the [ISMs](https://www.myrocketcareer.com/About-Us/Our-Philosophies).  These ideals get to the guts of what it means to be a team member.  Read them, use them, live them.  
+Everyone company has one, even if it isn't codified, but a codifed one is almost always better.  
+
+A few places I've worked have well documented cultural pillars; like Rocket Mortgage's [ISMs](https://www.myrocketcareer.com/About-Us/Our-Philosophies).
+
+These philosphies help ensure we're all aligned to the right direct, our interactions are governed by an appropriate compass, and our mission is clear.  
 
 ### Your Role
 
