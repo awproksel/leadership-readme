@@ -3,7 +3,7 @@ This is my version of the so-called "leadership readme" or a "how I lead" refere
 
 ### About Me
 
-I've been in technology for more than a decade and I am still tying to figuring it all out.  I climbed the ladder of engineering through the lens of a [site reliability](https://en.wikipedia.org/wiki/Site_Reliability_Engineering) and "devops engineer" (not a real job title, ask me more!).  As such, I'm used to looking at complex systems and figuring out why the cogs are misaligned and providing a simple but effective solution.  
+I've been in technology for almost two decades and I am still tying to figuring it all out.  I've advanced my career in engineering primarily through the lens of a [site reliability](https://en.wikipedia.org/wiki/Site_Reliability_Engineering) and "devops engineer" (not a real job title, ask me more!) but have also played Software Engineer, Architect, Technical Product/Program Manager, and any other duties as required.  I'm used to looking at complex systems and figuring out why the cogs are misaligned and providing a simple but effective solution.  
 
 Also, I'm a huge fan of Star Wars, Lego & reality tv cooking shows.  
 
@@ -17,7 +17,7 @@ Everyday I work to guide, advise and facilitate the growth of our team and our i
 
 #### My style
 
-I lead projects and endeavors using 3 sequential modes: visioning, demonstrating, stewarding and 5 sequential questions: what, why, how, who & when
+I lead projects and endeavors using 3 sequential modes: visioning, demonstrating, stewarding and typically ask 5 sequential questions: what, why, how, who & when on any scaled effort.
 
 #### I trust my team
 
@@ -66,7 +66,7 @@ That is your role and the role of everyone on the team.  At times you will need 
 
 #### 1 on 1 Meetings
 
-You should schedule a weekly, 30 minute conversation with me.  I prefer that you schedule the meeting, so you can pick a time (and place) that works for you, your schedule, and avoids interrupting your flow.  
+If you directly report to me, you should schedule a weekly, 30 minute conversation with me.  I prefer that you schedule the meeting, so you can pick a time (and place) that works for you, your schedule, and avoids interrupting your flow.  
 
 Our chats should be less about the status of your work, and more about *how* work is going. These are **your** meetings, but if you need a few ideas of things we can talk about, here is a brief list:
 
