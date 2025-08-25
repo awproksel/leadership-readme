@@ -49,7 +49,7 @@ I expect the team to have a passion for learning and growing and I will do my be
 
 #### Culture
 
-Everyone company has one, even if it isn't codified, but a codifed one is almost always better.  
+Every company has one, even if it isn't codified, but a codifed one is almost always better.  
 
 A few places I've worked have well documented cultural pillars; like Rocket Mortgage's [ISMs](https://www.myrocketcareer.com/About-Us/Our-Philosophies).
 
